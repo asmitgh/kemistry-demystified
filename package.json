@@ -53,6 +53,7 @@
     "lru-cache": "^11.0.2",
     "lucide-react": "^0.454.0",
     "mongodb": "^6.12.0",
+     "badges": "^4.40.0",
     "next": "14.2.16",
     "next-auth": "^4.24.11",
     "next-themes": "latest",
